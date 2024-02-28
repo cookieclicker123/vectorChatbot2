@@ -6,3 +6,4 @@ docarray==0.40.0
 PyMuPDF==1.23.25
 langchain-openai==0.0.8
 pypdf==4.0.2
+PyPDF2==3.0.1
