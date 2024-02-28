@@ -1,7 +1,7 @@
 langchain==0.1.9
 openai==1.12.0
 streamlit
-langchain-community==0.024
+langchain-community==0.0.24
 docarray==0.40.0
 PyMuPDF==1.23.25
 langchain-openai==0.0.8
